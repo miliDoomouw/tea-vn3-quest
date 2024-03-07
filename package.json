@@ -1,0 +1,9 @@
+{
+  "name": "@vnlogin3/tea-vn3-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@vnlogin3",
+  "repository": "https://github.com/miliDoomouw/tea-vn3-quest.git",
+  "license": "ISC"
+}
